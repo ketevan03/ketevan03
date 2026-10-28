@@ -1,16 +1,19 @@
-## Hi there 👋
+### Bonjour, je suis Ketevan 👋
 
-<!--
-**ketevan03/ketevan03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiante en **master Économétrie & Statistique** à Paris 1 Panthéon-Sorbonne, je me prépare à une carrière en **Private Equity**, au service des entreprises qui protègent **la planète et les animaux**.
 
-Here are some ideas to get you started:
+🌐 **Portfolio :** [ketevan03.github.io](https://ketevan03.github.io)
+📫 **Contact :** ketevan2003@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 📊 Travaux récents
+- **Analyse financière de Polestar** : valorisation et equity research d'un constructeur de véhicules électriques (OsloMet)
+- **Décision d'investissement par simulation** : théorie de la décision appliquée à l'allocation du capital (OsloMet)
+- **Criticité auto-organisée et risque financier** : simulation du modèle de Bak-Tang-Wiesenfeld en SAS (Paris 1)
+
+#### 🛠️ Outils
+`Excel` `VBA` `SAS` `R` `Python` `SQL`
+
+#### 🌍 Langues
+Géorgien · Russe · Français · Anglais · Ukrainien · Norvégien
